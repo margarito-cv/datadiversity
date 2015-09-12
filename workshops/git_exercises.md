@@ -18,4 +18,19 @@
 
   you're in a different branch now, so the command is now  
   git push origin [newbranch]
-7. TBD
+7. switch back to the master branch and add another new file called comments.md
+
+  write some comments about the course so far
+  commit it
+8. switch back to your new branch and merge the changes from master into the new branch
+
+  git merge master
+9. will the repository online have the new file in the master branch?
+
+10. change to the directory with the class repository and navigate to the workshops/python-workshops directory
+
+  [open up ipython notebook](http://ipython.org/ipython-doc/dev/notebook/notebook.html#starting-the-notebook-server) either through the GUI or by typing ipython notebook in the terminal
+  open up the ipython notebook "Python datatypes"
+  change something in [one of the cells](http://ipython.org/ipython-doc/dev/notebook/notebook.html#structure-of-a-notebook-document), commit it and push it to your fork of the class repository
+  
+  Bonus points for [adding a cell and computing something](https://www.youtube.com/watch?v=lmoNmY-cmSI) (running the cell). For example, the number of seconds in a year.
