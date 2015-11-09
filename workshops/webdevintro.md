@@ -10,7 +10,8 @@
   - put up a [bokeh](http://bokeh.pydata.org/en/latest/) graph
 - d3js - interactive graphs
   - [examples](https://github.com/mbostock/d3/wiki/Gallery)
-  - need to use the server, use 'python -m SimpleHTTPServer 8000'
+  - need to use the server
+      python -m SimpleHTTPServer 8000
 - using servers
   - follow gh pages directions again for [jekyll](https://jekyllrb.com/) site
   - differences in running on your local machine
