@@ -15,3 +15,4 @@
 - using servers
   - follow gh pages directions again for [jekyll](https://jekyllrb.com/) site
   - differences in running on your local machine
+- [How to make better visualizations](http://news.mit.edu/2015/how-make-better-infographic-visualizations-1105)
